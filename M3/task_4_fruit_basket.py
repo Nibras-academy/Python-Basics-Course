@@ -13,7 +13,7 @@ orange_quantity = int(input("Enter the quantity of oranges: "))
 total_apple_cost = apple_quantity * apple_price
 total_banana_cost = banana_quantity * banana_price
 total_orange_cost = orange_quantity * orange_price
-
+ 
 # Calculate the overall total cost
 total_cost = total_apple_cost + total_banana_cost + total_orange_cost
 
