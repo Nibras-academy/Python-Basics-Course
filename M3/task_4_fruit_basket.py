@@ -8,7 +8,7 @@ orange_price = 0.75
 apple_quantity = int(input("Enter the quantity of apples: "))
 banana_quantity = int(input("Enter the quantity of bananas: "))
 orange_quantity = int(input("Enter the quantity of oranges: "))
-
+ 
 # Calculate the total cost of each fruit
 total_apple_cost = apple_quantity * apple_price
 total_banana_cost = banana_quantity * banana_price
