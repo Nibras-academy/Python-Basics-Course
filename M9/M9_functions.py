@@ -1,51 +1,6 @@
-def bake_cookies():
-    print("Mixing the ingredients...")
-    print("Shaping the dough into cookies...")
-    print("Baking the cookies in the oven...")
-    print("Voila! Freshly baked cookies ready to delight your taste buds!")
-
-# Call the function to bake cookies
-bake_cookies()
-
-def greet():
-    print('Hello World!')
-    
-greet()
-
-
-def calculate_area():
-    length = float(input("Enter the length of the rectangle: "))
-    width = float(input("Enter the width of the rectangle: "))
-    area = length * width
-    print("The area of the rectangle is:", area)
-
-# Call the function to calculate and display the area
-calculate_area()
 
 
 
-def get_greeting():
-    return "Hello, World!"
-
-# Call the function and store the returned value in a variable
-greeting_message = get_greeting()
-
-print(greeting_message)  # Output: Hello, World!
-
-
-# Function to input grades for each subject
-def calc_grades():
-    math_grade = float(input("Enter Math grade: "))
-    english_grade = float(input("Enter English grade: "))
-    science_grade = float(input("Enter Science grade: "))
-    total_grades = math_grade + english_grade + science_grade
-    average_grade = total_grades / 3
-    return average_grade
-
-
-
-average = calc_grades()
-print("Average grade:", average)
 
 
 
