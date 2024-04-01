@@ -22,3 +22,4 @@ print("Total cost of buying", apple_quantity, "apples: $", total_apple_cost)
 print("Total cost of buying", banana_quantity, "bananas: $", total_banana_cost)
 print("Total cost of buying", orange_quantity, "oranges: $", total_orange_cost)
 print("Overall total cost: $", total_cost)
+
